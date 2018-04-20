@@ -1,0 +1,13 @@
+C:\Users\ПавловЕ\source\repos\Dz-18\Dz-18\bin\Debug\Dz-18.exe.config
+C:\Users\ПавловЕ\source\repos\Dz-18\Dz-18\bin\Debug\Dz-18.exe
+C:\Users\ПавловЕ\source\repos\Dz-18\Dz-18\bin\Debug\Dz-18.pdb
+C:\Users\ПавловЕ\source\repos\Dz-18\Dz-18\bin\Debug\EntityFramework.dll
+C:\Users\ПавловЕ\source\repos\Dz-18\Dz-18\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ПавловЕ\source\repos\Dz-18\Dz-18\bin\Debug\EntityFramework.xml
+C:\Users\ПавловЕ\source\repos\Dz-18\Dz-18\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ПавловЕ\source\repos\Dz-18\Dz-18\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ПавловЕ\source\repos\Dz-18\Dz-18\obj\Debug\Dz-18.csprojResolveAssemblyReference.cache
+C:\Users\ПавловЕ\source\repos\Dz-18\Dz-18\obj\Debug\Dz-18.csproj.CoreCompileInputs.cache
+C:\Users\ПавловЕ\source\repos\Dz-18\Dz-18\obj\Debug\Dz-18.csproj.CopyComplete
+C:\Users\ПавловЕ\source\repos\Dz-18\Dz-18\obj\Debug\Dz-18.exe
+C:\Users\ПавловЕ\source\repos\Dz-18\Dz-18\obj\Debug\Dz-18.pdb
