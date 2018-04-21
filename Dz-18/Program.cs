@@ -14,10 +14,10 @@ namespace Dz_18
             {
                 var result = from d in context.Documents
                              join s in context.Signatures
-                             on d.SignatureId equals s.Id
+                             on d.Id equals s.DocumentId
                              join p in context.People
                              on s.PersonId equals p.Id
-                             select new { d.Id, d.DocumentTheme, d.DocumentCreator, d.CreationDate, d.Signature.Select(s => s.Person.FullName) };
+                             select new { d.Id, d.DocumentTheme, d.DocumentCreator, d.CreationDate, PersonName = d.Signatures.Select(s => s.Person.FullName) };
             }
         }
     }
